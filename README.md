@@ -1,5 +1,5 @@
 # My_Journey
-Starting 23/10/2023, I will be sharing everything in this repo about of journey of becoming a Software Engineer (SDE).
+Starting 23/10/2023, I will be sharing everything in this repo about the journey of becoming a Software Engineer (SDE).
 
 ## Jump_To_Specifics
 
@@ -7,3 +7,4 @@ Starting 23/10/2023, I will be sharing everything in this repo about of journey 
  > #### 2. [Open_Source](https://github.com/Abhishekraina7/My_Journey/tree/main/04.%20Open_Source)
  > #### 3. [DSA](https://github.com/Abhishekraina7/My_Journey/tree/main/03.%20Data%20Structures%20and%20Algorithms)
  > #### 4. [Java_language](https://github.com/Abhishekraina7/My_Journey/tree/main/02.%20Java_basics)
+ > #### 5. [Flutter](https://github.com/Abhishekraina7/My_Journey/tree/main/05.%20Flutter)
