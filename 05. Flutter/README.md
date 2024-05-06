@@ -3,7 +3,8 @@
 ![Flutter_framework_Symbol](https://github.com/Abhishekraina7/My_Journey/assets/143702712/e1afb5a1-345b-4c2e-b239-5ed6179b7703)
 
 # Flutter Development 
-- #### [Learn_the_basics](url)
+#### Here are some resources for Flutter dev
+- #### [Learn_the_basics](https://github.com/Abhishekraina7/flutter_basics_one_short/tree/afba6006d279c407d8ed87dde99c918e0970aab4)
 
 
 ## What the hell is Flutter anyway ( in short )?
