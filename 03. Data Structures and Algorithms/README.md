@@ -32,6 +32,20 @@
    #### Raj Vikramaditya aka Striver
    ![Raj Vikramaditya aka Striver](https://github.com/Abhishekraina7/My_Journey/assets/143702712/640bb731-c2bc-4799-bef1-6d0221bc642f)
    #### CheckOut Sir's LinkedIn: [LinkedIn](https://www.linkedin.com/in/rajstriver/)
+
+   # How to do DSA Effectively?
+   
+   #### 1. Leetcode
+   
+   - Go from Brute force > optimized approach.
+   - Don't spend more than 1 hour on a single problem.
+   - Go Easy-Medium first.
+   - Do some of popular Hard questions but not mandatory.
+   - Try to observe patterns ( Like in array topic what kind of patterns are recurring ).
+   - 500 questions will be more than enough but do them with observation.
+     
+   #### 2. Use ChatGpt or Gemini and ask for Project based on Data structures and algorithms
+   
   
   
 
