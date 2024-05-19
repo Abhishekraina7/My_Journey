@@ -1,10 +1,10 @@
 
 
-![Flutter_framework_Symbol](https://github.com/Abhishekraina7/Flutter_functionalities)
+![Flutter_framework_Symbol](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH4lNuLV9QltVjmiJjzbbMUQGE5pS7Xcck6g&usqp=CAU)
 
 # Flutter Development 
 #### Here are some resources for Flutter dev
-- #### [Learn_the_basics](https://github.com/Abhishekraina7/flutter_basics_one_short/tree/afba6006d279c407d8ed87dde99c918e0970aab4)
+- #### [Learn_the_basics](https://github.com/Abhishekraina7/Flutter_functionalities.git)
 
 
 ## What the hell is Flutter anyway ( in short )?
