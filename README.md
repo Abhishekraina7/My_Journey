@@ -12,8 +12,8 @@ Starting 23/10/2023, I will be sharing everything in this repo about the journey
 
 # Some_Superb Platforms
 
-> 1. 😯[WHOLE CS DEGREE:](https://github.com/ossu/computer-science?utm_campaign=website&utm_medium=email&utm_source=sendgrid.com): F**kin good and gracious this resource is really damn good
+ 1. 😯[WHOLE CS DEGREE:](https://github.com/ossu/computer-science?utm_campaign=website&utm_medium=email&utm_source=sendgrid.com): F**kin good and gracious this resource is really damn good
 
-> 2. 🍃[The_Odin_Project](https://www.theodinproject.com/): Web dev for anyone (HTML,CSS,JS,React,NodeJS,Ruby,RubyOnRails,RDB(SQL) with hands on projects).
+ 2. 🍃[The_Odin_Project](https://www.theodinproject.com/): Web dev for anyone (HTML,CSS,JS,React,NodeJS,Ruby,RubyOnRails,RDB(SQL) with hands on projects).
 
-> 3. 💪[BOOT.DEV](https://www.boot.dev/tracks/backend): Backend + DevOPS + CI/CD + Deployment (If you want to ship your products then try this)
+ 3. 💪[BOOT.DEV](https://www.boot.dev/tracks/backend): Backend + DevOPS + CI/CD + Deployment (If you want to ship your products then try this)
