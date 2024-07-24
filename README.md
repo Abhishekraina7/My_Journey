@@ -1,5 +1,5 @@
 # My_Journey
-Starting 23/10/2023, I will be sharing everything in this repo about the journey of becoming a Software Development Engineer (SDE).
+Starting 23/10/2023, I will be sharing everything in this repo about the journey of becoming a Software Development Engineer (SDE). Best bnn aur lele its waitin for ya.
 
 ## Jump_To_Specifics
 
