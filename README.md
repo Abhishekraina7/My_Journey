@@ -10,7 +10,7 @@ Starting 23/10/2023, I will be sharing everything in this repo about the journey
  > #### 5. [Flutter](https://github.com/Abhishekraina7/My_Journey/tree/main/05.%20Flutter)
  > #### 6. [BackEnd](https://github.com/Abhishekraina7/My_Journey/tree/main/06.BackEnd_Game)
 
-# Some_Superb Platforms
+# Some_Superb Resources
 
  1. 😯[WHOLE CS DEGREE:](https://github.com/ossu/computer-science?utm_campaign=website&utm_medium=email&utm_source=sendgrid.com): F**kin good and gracious this resource is really damn good
 
