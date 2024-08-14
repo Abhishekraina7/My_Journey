@@ -9,6 +9,7 @@ Starting 23/10/2023, I will be sharing everything in this repo about the journey
  > #### 4. [Java_language](https://github.com/Abhishekraina7/My_Journey/tree/main/02.%20Java_basics)
  > #### 5. [Flutter](https://github.com/Abhishekraina7/My_Journey/tree/main/05.%20Flutter)
  > #### 6. [BackEnd](https://github.com/Abhishekraina7/My_Journey/tree/main/06.BackEnd_Game)
+ > #### 7. [JavaScript](https://github.com/Abhishekraina7/My_Journey/tree/main/06.BackEnd_Game/JavaScript_lang)
 
 # Some_Superb Resources
 
