@@ -18,4 +18,4 @@ Starting 23/10/2023, I will be sharing everything in this repo about the journey
  2. 🍃[The_Odin_Project](https://www.theodinproject.com/): Web dev for anyone (HTML,CSS,JS,React,NodeJS,Ruby,RubyOnRails,RDB(SQL) with hands on projects).
 
  3. 💪[BOOT.DEV](https://www.boot.dev/tracks/backend): Backend + DevOPS + CI/CD + Deployment (If you want to ship your products then try this)
- 4. 💪[CodeCrafter](https://github.com/codecrafters-io/build-your-own-x?tab=readme-ov-file): This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. This is something advance stuff ( you need strong dev skills for these )
+ 4. 💪[CodeCrafter](https://app.codecrafters.io/catalog): This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. This is something advance stuff ( you need strong dev skills for these )
