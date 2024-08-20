@@ -5,6 +5,8 @@
 # Flutter Development 
 #### Here are some resources for Flutter dev
 - #### [Learn_the_basics](https://github.com/Abhishekraina7/Flutter_functionalities.git)
+- #### [Ready-To_use_Components](https://fluttergems.dev/)
+- #### [Flutter-Beads](https://www.flutterbeads.com/)
 - #### [Packages_for_your_next_projects](https://pub.dev/)
 - #### [Learn_the_dart_language](https://dart.dev/guides)
 - #### [Go_to_website_for_becoming good_at_flutter](https://flutter.dev/)
