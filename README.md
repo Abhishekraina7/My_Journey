@@ -21,6 +21,7 @@ Starting 23/10/2023, I will be sharing everything in this repo about the journey
  4. 💪[CodeCrafter](https://app.codecrafters.io/catalog): This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. This is something advance stuff ( you need strong dev skills for these )
  5. 😯[Cursor.AI](https://www.cursor.com/features):Cursor includes a powerful autocomplete that predicts your next edit. Once enabled, it is always on and will suggest edits to your code across multiple lines, taking into account your recent changes.
  6. 🙎‍♂️[V0.dev](https://v0.dev/chat): This tool helps you create UI for your Apps and Web also ( Note: You have to precisely give a very good prompt defining the UI).
+ 7. 🧙‍♂️[Story-Set](https://storyset.com/search): High quality with Hell-lot of customization which you can use in your UI of your next production grade Project.
 
 ## Jobs Search Made easy 
 
