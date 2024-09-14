@@ -15,7 +15,7 @@ Starting 23/10/2023, I will be sharing everything in this repo about the journey
 
  1. 😯[WHOLE CS DEGREE:](https://github.com/ossu/computer-science?utm_campaign=website&utm_medium=email&utm_source=sendgrid.com): F**kin good and gracious this resource is really damn good.
  ---
- 2. 💪[Oye_Need_Java_for_your_next_Intern_or_JOB?_I've_Got_Your_back_🤝](https://academy.jetbrains.com/?tag=Java&_gl=1*18lsmr*_gcl_au*MTAzMTEzMzEyMy4xNzI1MDAzNTQy*_ga*NDQ2MDg1ODEwLjE3MjUwMDM1Mzc.*_ga_9J976DJZ68*MTcyNjIwNzA1Mi4yLjEuMTcyNjIwNzEwOS4zLjAuMA..): Amazing resource from Jetbrains itself - Learn basic Java,OOPs and Java for Developers and hop on the back of Springboot and you'll ready build within 1month (Bss Dedication and calm mind chahiye).
+ 2. 💪[Oye_Need_Java_0r_ANDROID_for_your_next_Intern_or_JOB?_I've_Got_Your_back_🤝](https://academy.jetbrains.com/?tag=Java&_gl=1*18lsmr*_gcl_au*MTAzMTEzMzEyMy4xNzI1MDAzNTQy*_ga*NDQ2MDg1ODEwLjE3MjUwMDM1Mzc.*_ga_9J976DJZ68*MTcyNjIwNzA1Mi4yLjEuMTcyNjIwNzEwOS4zLjAuMA..): Amazing resource from Jetbrains itself - Learn basic Kotlin, Java, OOPs and Java for Developers and Android and hop on the back of Springboot and you'll ready build within 1month (Bss Dedication and calm mind chahiye).
  ---
  3. 🍃[The_Odin_Project](https://www.theodinproject.com/): Web dev for anyone (HTML,CSS,JS,React,NodeJS,Ruby,RubyOnRails,RDB(SQL) with hands on projects).
  ---
