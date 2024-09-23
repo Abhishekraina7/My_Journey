@@ -29,7 +29,8 @@ Starting 23/10/2023, I will be sharing everything in this repo about the journey
  ---
  8. 🧙‍♂️[Story-Set](https://storyset.com/search): High quality with Hell-lot of customization which you can use in your UI of your next production grade Project.
  ---
- 9. [Tech Dev Guide](https://techdevguide.withgoogle.com/paths/interview/?no-filter=true): Resource for Preparing for Technical interviews at big tech.
+ 9. 👔[Tech Dev Guide](https://techdevguide.withgoogle.com/paths/interview/?no-filter=true): Resource for Preparing for Technical interviews at big tech.
+ ---
 
 ## Jobs Search Made easy 
 
