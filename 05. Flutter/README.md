@@ -11,6 +11,7 @@
 - #### [Learn_the_dart_language](https://dart.dev/guides)
 - #### [Go_to_website_for_becoming good_at_flutter](https://flutter.dev/)
 - #### [Gold_Mine_for_your_intermediat_projects(oye internship k_liye_projects_eder_sehi😊smje](https://flutter.dev/)
+- #### [BLOC - StateManagement Library](https://bloclibrary.dev/)
 
 
 
