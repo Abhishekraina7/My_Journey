@@ -22,7 +22,7 @@ Starting 23/10/2023, I will be sharing everything in this repo about the journey
  3. 🍃[The_Odin_Project](https://www.theodinproject.com/): Web dev for anyone (HTML,CSS,JS,React,NodeJS,Ruby,RubyOnRails,RDB(SQL) with hands on projects).
  ---
  4. 💪[BOOT.DEV](https://www.boot.dev/tracks/backend): Backend + DevOPS + CI/CD + Deployment (If you want to ship your products then try this)
-
+ ---
  5. 💪 [Egghead.io](https://egghead.io/):egghead is a group of working web development professionals and open source contributors that provide you with concise, information dense video courses on the best tools in the industry.
  ---
  6. 💪[CodeCrafter](https://app.codecrafters.io/catalog): This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. This is something advance stuff ( you need strong dev skills for these).
