@@ -22,16 +22,18 @@ Starting 23/10/2023, I will be sharing everything in this repo about the journey
  3. 🍃[The_Odin_Project](https://www.theodinproject.com/): Web dev for anyone (HTML,CSS,JS,React,NodeJS,Ruby,RubyOnRails,RDB(SQL) with hands on projects).
  ---
  4. 💪[BOOT.DEV](https://www.boot.dev/tracks/backend): Backend + DevOPS + CI/CD + Deployment (If you want to ship your products then try this)
+
+ 5. 💪 [Egghead.io](https://egghead.io/):egghead is a group of working web development professionals and open source contributors that provide you with concise, information dense video courses on the best tools in the industry.
  ---
- 5. 💪[CodeCrafter](https://app.codecrafters.io/catalog): This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. This is something advance stuff ( you need strong dev skills for these).
+ 6. 💪[CodeCrafter](https://app.codecrafters.io/catalog): This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. This is something advance stuff ( you need strong dev skills for these).
  ---
- 6. 😯[Cursor.AI](https://www.cursor.com/features):Cursor includes a powerful autocomplete that predicts your next edit. Once enabled, it is always on and will suggest edits to your code across multiple lines, taking into account your recent changes.
+ 7. 😯[Cursor.AI](https://www.cursor.com/features):Cursor includes a powerful autocomplete that predicts your next edit. Once enabled, it is always on and will suggest edits to your code across multiple lines, taking into account your recent changes.
  ---
- 7. 🙎‍♂️[V0.dev](https://v0.dev/chat): This tool helps you create UI for your Apps and Web also ( Note: You have to precisely give a very good prompt defining the UI).
+ 8. 🙎‍♂️[V0.dev](https://v0.dev/chat): This tool helps you create UI for your Apps and Web also ( Note: You have to precisely give a very good prompt defining the UI).
  ---
- 8. 🧙‍♂️[Story-Set](https://storyset.com/search): High quality with Hell-lot of customization which you can use in your UI of your next production grade Project.
+ 9. 🧙‍♂️[Story-Set](https://storyset.com/search): High quality with Hell-lot of customization which you can use in your UI of your next production grade Project.
  ---
- 9. 👔[Tech Dev Guide](https://techdevguide.withgoogle.com/paths/interview/?no-filter=true): Resource for Preparing for Technical interviews at big tech.
+ 10. 👔[Tech Dev Guide](https://techdevguide.withgoogle.com/paths/interview/?no-filter=true): Resource for Preparing for Technical interviews at big tech.
  ---
 
 ## Jobs Search Made easy 
