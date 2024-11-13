@@ -35,8 +35,10 @@ Starting 23/10/2023, I will be sharing everything in this repo about the journey
  ---
  10. 🧙‍♂️ [Rive](https://rive.app/): Animations for your next app project.
  ---
- 10. 👔[Tech Dev Guide](https://techdevguide.withgoogle.com/paths/interview/?no-filter=true): Resource for Preparing for Technical interviews at big tech.
+ 11. 👔[Tech Dev Guide](https://techdevguide.withgoogle.com/paths/interview/?no-filter=true): Resource for Preparing for Technical interviews at big tech.
  ---
+ 12.  [Best Website for every coder](https://github.com/sdmg15/Best-websites-a-programmer-should-visit?tab=readme-ov-file): Best websites a programmer should visit 
+ 
 
 ## Jobs Search Made easy 
 
