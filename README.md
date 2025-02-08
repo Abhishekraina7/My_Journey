@@ -37,11 +37,11 @@ Starting 23/10/2023, I will be sharing everything in this repo about the journey
  ---
  11. 👔[Tech Dev Guide](https://techdevguide.withgoogle.com/paths/interview/?no-filter=true): Resource for Preparing for Technical interviews at big tech.
  ---
- 12.  [Best Websites for every coder](https://github.com/sdmg15/Best-websites-a-programmer-should-visit?tab=readme-ov-file): Best websites a programmer should visit.
+ 12. 😯[Best Websites for every coder](https://github.com/sdmg15/Best-websites-a-programmer-should-visit?tab=readme-ov-file): Best websites a programmer should visit.
  ---
- 13.  [Best Website for finding new tools](https://www.producthunt.com/): For new tools and inspiration for your next project.
+ 13. 💫[Product-hunt for finding new tools](https://www.producthunt.com/): For new tools and inspiration for your next project.
  ---
- 15. [Free API's](https://freeapi.hashnode.space/api-guide/apireference/loginUser): You can see and write api for your own project by seeing tons of examples with full working demo  
+ 15. 🛰️[Free API's](https://freeapi.hashnode.space/api-guide/apireference/loginUser): You can see and write api for your own project by seeing tons of examples with full working demo  
  
 
 ## Jobs Search Made easy 
